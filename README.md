@@ -12,7 +12,7 @@ Integrated with:
 
 ## 💻 Pre-requisites
 
-Before you use this project you need to have Android Studio installed in your computer.
+Before you use this project you need to have Android Studio installed in your computer and download app-staging-debug.apk file.
 
 ### Git clone
 This will clone the project, install NPM packages and also the Webdriver.io which is required to run the test.
