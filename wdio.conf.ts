@@ -64,7 +64,7 @@ exports.config = {
         platformName: "Android",
         "appium:deviceName": "Pixel 4 API 31",
         "appium:automationName": "UiAutomator2",
-        "appium:app": path.join(process.cwd(),"./app/app-staging-debug.apk")
+        "appium:app": path.join(process.cwd(),"./app-staging-debug.apk")
     }],
     //
     // ===================
